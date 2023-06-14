@@ -8,12 +8,23 @@ Tourism, Cultural, and Hospitality
 
 ## Screenshots
 <div>
-	<img src="" width="200" />
-	<img src="" width="200" />
-	<img src="" width="200" />
-	<img src="" width="200" />
+	<img src="https://i.ibb.co/zfyq28h/jejaknesia-splash-screen.jpg" width="100" />
+	<img src="https://i.ibb.co/26XCvFz/Whats-App-Image-2023-06-14-at-21-11-36-1.jpg" width="100" />
+	<img src="https://i.ibb.co/sqYC5Xw/jejaknesia-register.jpg" width="100" />
+	<img src="https://i.ibb.co/NSTsf9f/jejaknesia-home.jpg" width="100" />
+	<img src="https://i.ibb.co/NTyLsm4/jejaknesia-generate-result.jpg" width="100" />
+	<img src="https://i.ibb.co/fC38cht/jejaknesia-result-detail.jpg" width="100" />
 </div>
 
+<div>
+	<img src="https://i.ibb.co/ns1dyc6/jejaknesia-result-location-map.jpg" width="100" />
+	<img src="https://i.ibb.co/vjfD5VV/jejaknesia-blog.jpg" width="100" />
+	<img src="https://i.ibb.co/QcpDL7j/jejaknesia-detail-blog.jpg" width="100" />
+	<img src="https://i.ibb.co/274FXP0/jejaknesia-home-darkmode.jpg" width="100" />
+	<img src="https://i.ibb.co/dgg5yHB/jejaknesia-generate-result-darkmode.jpg" width="100" />
+
+</div>
+	
 ## Usage
 ### How to use the app
 1. Open the app

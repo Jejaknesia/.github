@@ -11,7 +11,7 @@
 	<img src="https://i.ibb.co/zfyq28h/jejaknesia-splash-screen.jpg" width="100" />
 	<img src="https://i.ibb.co/G3T8YTf/jejaknesia-login.jpg" width="100" />
 	<img src="https://i.ibb.co/M6NngLp/jejaknesia-register.jpg" width="100" />
-	<img src="https://i.ibb.co/rZ87CJW/jejaknesia-home.jpg" width="100" />
+	<img src="jejaknesia-home.jpg" width="100" />
 	<img src="https://i.ibb.co/JHgpHc9/jejaknesia-generate-result.jpg" width="100" />
 	<img src="https://i.ibb.co/cwP0jHk/jejaknesia-result-detail.jpg" width="100" />
 	

@@ -34,6 +34,6 @@ Tourism, Cultural, and Hospitality
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Github](https://github.com/Jejaknesia/mobile_development) |
 |  Machine Learning  |  [Github]()  |
-|   Cloud Computing  |   [Github API](https://github.com/Jejaknesia/jejaknesia-api) & [Github Model API](https://github.com/Jejaknesia/jejaknesia-models-api)  |
+|   Cloud Computing  |   [Jejaknesia API](https://github.com/Jejaknesia/jejaknesia-api) & [Jejaknesia Model API](https://github.com/Jejaknesia/jejaknesia-models-api)  |
 
 <p align="right"> C23-PS322 Teams </p>

@@ -32,7 +32,7 @@ Tourism, Cultural, and Hospitality
 
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github](https://github.com/Jejaknesia/mobile_development) |
+| Mobile Development | [Jejaknesia Mobile App](https://github.com/Jejaknesia/mobile_development) |
 |  Machine Learning  |  [Github]()  |
 |   Cloud Computing  |   [Jejaknesia API](https://github.com/Jejaknesia/jejaknesia-api) & [Jejaknesia Model API](https://github.com/Jejaknesia/jejaknesia-models-api)  |
 

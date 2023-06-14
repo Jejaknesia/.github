@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 align="center">Jejaknesia</h1>
+  <h1 align="center">Jejaknesia App</h1>
 	<img src="https://i.ibb.co/yVt3cBj/jejaknesia-logo-horizontal.png" width="300" />
 </div>
 
-## Theme 🏙️
+## Theme 🌆
 Tourism, Cultural, and Hospitality
 
 ## Screenshots
@@ -14,8 +14,8 @@ Tourism, Cultural, and Hospitality
 	<img src="" width="200" />
 </div>
 
-### B. Usage
-#### How to use the app
+## Usage
+### How to use the app
 1. Open the app
 2. Login to your account or Register if you don't have an account
 3. Choose what category that fits you
@@ -28,12 +28,12 @@ Tourism, Cultural, and Hospitality
 10. If you want to change the theme mode, you can click **Dark Mode** icon on the HomePage AppBar
 
 
-# Repositories
+## Repositories
 
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github]() |
+| Mobile Development | [Github](https://github.com/Jejaknesia/mobile_development) |
 |  Machine Learning  |  [Github]()  |
-|   Cloud Computing  |   [Github]()  |
+|   Cloud Computing  |   [Github API](https://github.com/Jejaknesia/jejaknesia-api) & [Github Model API](https://github.com/Jejaknesia/jejaknesia-models-api)  |
 
 <p align="right"> C23-PS322 Teams </p>

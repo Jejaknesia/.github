@@ -4,7 +4,7 @@
 </div>
 
 ## Theme 🌆
-Tourism, Cultural, and Hospitality
+`Tourism`,  `Cultural`,  `Hospitality`
 
 ## Screenshots
 <div style="display: flex; justify-content: center;">

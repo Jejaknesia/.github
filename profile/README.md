@@ -60,4 +60,4 @@
 |  Machine Learning  |  [Github]()  |
 |   Cloud Computing  |   [Jejaknesia API](https://github.com/Jejaknesia/jejaknesia-api) & [Jejaknesia Model API](https://github.com/Jejaknesia/jejaknesia-models-api)  |
 
-<p align="right"> C23-PS322 Teams </p>
+<p align="right"> C23-PS322 Team </p>

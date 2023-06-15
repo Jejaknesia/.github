@@ -17,6 +17,8 @@
 - Integrate APIs into Android Application. 
 - Complete the finalization of the Android Application and verify that it is working well.
 
+## Jejaknesia APK
+Here is our Jejaknesia APK : https://drive.google.com/drive/folders/1k6mwxVG04cf8j2EjJIrae6GSbUOWehsk?usp=sharing
 
 ## Screenshots
 <div style="display: flex; justify-content: center;">

@@ -6,6 +6,18 @@
 ## Theme 🌆
 `Tourism`,  `Cultural`,  `Hospitality`
 
+## The flow of project development stages
+- Make a User-Interface Design using Figma.
+- Create the flow of our application.
+- Make our own dataset.
+- Make our model in Google Colab & Jupyter Notebook.
+- Make our API Documentation in README.md file in github.
+- Using Github Organizations.
+- Build application using Android Studio.
+- Integrate APIs into Android Application. 
+- Complete the finalization of the Android Application and verify that it is working well.
+
+
 ## Screenshots
 <div style="display: flex; justify-content: center;">
 	<img src="https://i.ibb.co/zfyq28h/jejaknesia-splash-screen.jpg" width="100" />

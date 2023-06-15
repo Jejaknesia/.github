@@ -46,7 +46,7 @@
 | Cloud Computing     | C265DSX1647    | [Aditya Argadinata](https://github.com/Sujaruu)            |
 | Cloud Computing     | C265DSX1360    | [Alham Manazil](https://github.com/Alhammanazil)          |
 | Machine Learning    | M241DSY1288    | [Baby Aisha Maritza Virginia](https://github.com/LuminetteBourgeons)   |
-| Machine Learning    | M295DSX1867    | [Muhammad Naufal Agisya](https://github.com)          |
+| Machine Learning    | M295DSX1867    | [Muhammad Naufal Agisya](https://github.com/naufalagisya)          |
 | Mobile Development  | A243DSY1059    | [Vanessa Leonora](https://github.com/VanessaLeo24)     |
 | Mobile Development  | A243DSX1075    | [Henly Forbesly](https://github.com/henlyforbesly)        |
 

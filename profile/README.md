@@ -57,7 +57,7 @@
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Jejaknesia Mobile App](https://github.com/Jejaknesia/mobile_development) |
-|  Machine Learning  |  [Github]()  |
+|  Machine Learning  |  [Jejaknesia Machine Learning Model](https://github.com/Jejaknesia/jejaknesia-machine-models)  |
 |   Cloud Computing  |   [Jejaknesia API](https://github.com/Jejaknesia/jejaknesia-api) & [Jejaknesia Model API](https://github.com/Jejaknesia/jejaknesia-models-api)  |
 
 <p align="right"> C23-PS322 Team </p>
